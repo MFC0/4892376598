@@ -1,1 +1,1 @@
-0.tcp.ngrok.io:18457
+Minecraft server ip: 0.tcp.ngrok.io:18457
